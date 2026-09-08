@@ -668,7 +668,7 @@
         flex-wrap: wrap;
         margin-top: 30px;
       }
-      .contact-links span {
+      .contact-links a {
         color: var(--muted);
         font: 400 0.73rem var(--mono);
         border-bottom: 1px solid #30465e;
